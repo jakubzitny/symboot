@@ -1,0 +1,7 @@
+parameters:
+#    acme_sym_boot.example.class: Acme\SymBootBundle\Example
+
+services:
+#    acme_sym_boot.example:
+#        class: %acme_sym_boot.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]

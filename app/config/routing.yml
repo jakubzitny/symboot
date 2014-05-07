@@ -1,0 +1,4 @@
+acme_sym_boot:
+    resource: "@AcmeSymBootBundle/Resources/config/routing.yml"
+    prefix:   /
+
