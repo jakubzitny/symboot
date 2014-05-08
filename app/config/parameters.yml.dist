@@ -11,3 +11,5 @@ parameters:
     mailer_password: null
     locale: en
     secret: ThisTokenIsNotSoSecretChangeIt
+    fb_app_id: xxxxx
+    fb_app_secret: xxxxx
