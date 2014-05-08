@@ -11,6 +11,3 @@ parameters:
     mailer_password: null
     locale: en
     secret: ThisTokenIsNotSoSecretChangeIt
-
-    fb_app_id: 883875638306294
-    fb_app_secret: e0c40be0a091143e80d7a2e216713155
