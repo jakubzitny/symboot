@@ -97,6 +97,7 @@ hwi_oauth:
             paths:
                 email:          email
 
+# TODO
 hearsay_require_js:
     require_js_src:      //cdnjs.cloudflare.com/ajax/libs/require.js/2.1.8/require.min.js
     initialize_template: HearsayRequireJSBundle::initialize.html.twig
