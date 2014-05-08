@@ -20,7 +20,7 @@ class AppKernel extends Kernel
             new Acme\UserBundle\AcmeUserBundle(),
             new FOS\UserBundle\FOSUserBundle(),
             new HWI\Bundle\OAuthBundle\HWIOAuthBundle(),
-            new Hearsay\RequireJSBundle\HearsayRequireJSBundle(),
+            //new Hearsay\RequireJSBundle\HearsayRequireJSBundle(),
         );
 
         if (in_array($this->getEnvironment(), array('dev', 'test'))) {
